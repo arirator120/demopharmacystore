@@ -1,0 +1,88 @@
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.pdb
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.pdb
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.pdb
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.pdb
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.pdb
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.pdb
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.pdb
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.pdb
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.pdb
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.pdb
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.pdb
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.pdb
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.pdb
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.pdb
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.pdb
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.pdb
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.pdb
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.pdb
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\DAO\bin\Debug\DAO.pdb
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\DAO\bin\Debug\DTO.pdb
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\DAO\obj\Debug\DAO.pdb
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\DAO\bin\Debug\DAO.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\DAO\bin\Debug\DAO.pdb
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\DAO\bin\Debug\DTO.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\DAO\bin\Debug\DTO.pdb
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\DAO\obj\Debug\DAO.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\DAO\obj\Debug\DAO.pdb

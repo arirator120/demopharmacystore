@@ -1,0 +1,426 @@
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.pdb
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.pdb
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.pdb
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.pdb
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.pdb
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.pdb
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.pdb
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.pdb
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Utils.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.pdb
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.pdb
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.pdb
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.pdb
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.pdb
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.pdb
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.pdb
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.pdb
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.pdb
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.pdb
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.pdb
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.pdb
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.pdb
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.pdb
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.pdb
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\BUS.pdb
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.v20.1.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DAO.pdb
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DTO.pdb
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\BUS\obj\Debug\BUS.pdb
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\BUS.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\BUS.pdb
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DAO.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DTO.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DevExpress.Data.v20.1.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DAO.pdb
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DTO.pdb
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DevExpress.Data.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\obj\Debug\BUS.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\BUS\obj\Debug\BUS.pdb

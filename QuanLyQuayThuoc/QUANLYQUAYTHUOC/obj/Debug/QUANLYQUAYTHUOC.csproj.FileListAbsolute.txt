@@ -1,0 +1,1418 @@
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe.config
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.pdb
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csprojAssemblyReference.cache
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.Properties.Resources.resources
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.pdb
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AdminForm.resources
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe.licenses
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.pdb
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.pdb
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\source\repos\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe.config
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe.licenses
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.MainForm.resources
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe.config
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.pdb
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.pdb
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.pdb
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csprojAssemblyReference.cache
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.MainForm.resources
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThemSP.resources
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.Properties.Resources.resources
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.GenerateResource.cache
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe.licenses
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CoreCompileInputs.cache
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CopyComplete
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe
+C:\Users\Sarito\Desktop\CNPM\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.BanHangForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThemSanPhamForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.InMaVachForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\itextsharp.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\itextsharp.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DanhSachNhanVienForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DAO.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DAO.pdb
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe.config
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.pdb
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BouncyCastle.Crypto.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\itextsharp.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DAO.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Office.v20.1.Core.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.pdb
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.pdb
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\itextsharp.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DAO.pdb
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Office.v20.1.Core.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csprojAssemblyReference.cache
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.BanHangForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DanhSachNhanVienForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.InMaVachForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.MainForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThemSanPhamForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.Properties.Resources.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.GenerateResource.cache
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe.licenses
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CoreCompileInputs.cache
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CopyComplete
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.pdb
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LichSuBanHangForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LichSuNhapHangForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csprojAssemblyReference.cache
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.BanHangForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ChangePassForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.CheckAccountForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.CheckMatchNewPForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.CheckMatchPForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DanhSachNhanVienForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.InMaVachForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KhoThuocForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LichSuBanHangForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LichSuNhapHangForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LoginForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.MainForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.NhapHangForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThemSanPhamForm.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.Properties.Resources.resources
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.GenerateResource.cache
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe.licenses
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CoreCompileInputs.cache
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.pdb
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe.config
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.pdb
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\itextsharp.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DAO.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.pdb
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.pdb
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\itextsharp.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DAO.pdb
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\Git\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ChangePassForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.CheckAccountForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.CheckMatchNewPForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.CheckMatchPForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KhoThuocForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LichSuBanHangForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LichSuNhapHangForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LoginForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.NhapHangForm.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe.config
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.pdb
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\itextsharp.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DAO.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.pdb
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.pdb
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\itextsharp.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DAO.pdb
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csprojAssemblyReference.cache
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.BanHangForm.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DanhSachNhanVienForm.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.InMaVachForm.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LichSuBanHangForm.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LichSuNhapHangForm.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.MainForm.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThemSanPhamForm.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.Properties.Resources.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.GenerateResource.cache
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe.licenses
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CoreCompileInputs.cache
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CopyComplete
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.pdb
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ChangePassForm.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.CheckAccountForm.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.CheckMatchNewPForm.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.CheckMatchPForm.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KhoThuocForm.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LoginForm.resources
+C:\Users\Long Guitar\Desktop\FinalGit\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.NhapHangForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KhoThuocForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.NhapHangForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThongTinCaNhanForm.resources
+C:\Users\Long Guitar\Desktop\GIT\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThongTinCaNhanForm.resources
+C:\Users\Long Guitar\Desktop\GIT\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThongTinNCCForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThongTinCaNhanForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\GitLab\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThongTinNCCForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csprojAssemblyReference.cache
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.BanHangForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DanhSachNhanVienForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.InMaVachForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KhoThuocForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LichSuBanHangForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LichSuNhapHangForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.MainForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.NhapHangForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThemSanPhamForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThongTinCaNhanForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThongTinNCCForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.Properties.Resources.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.GenerateResource.cache
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe.licenses
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CoreCompileInputs.cache
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.pdb
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe.config
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.pdb
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\itextsharp.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DAO.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.pdb
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.pdb
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\itextsharp.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DAO.pdb
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CopyComplete
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThongTinNCCForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DoiMatKhauForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraTKvaMKcuForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraXacNhanMKMoiForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraMatKhauMoiForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DangNhapForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraForm.resources
+C:\Users\Long Guitar\Desktop\GitFinal\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThayDoiMKThanhCongForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DoiMatKhauForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraTKvaMKcuForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraXacNhanMKMoiForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraMatKhauMoiForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DangNhapForm.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThayDoiMKThanhCongForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe.config
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\itextsharp.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DAO.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\itextsharp.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DAO.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.BanHangForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DoiMatKhauForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraTKvaMKcuForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraXacNhanMKMoiForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraMatKhauMoiForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DanhSachNhanVienForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.InMaVachForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KhoThuocForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LichSuBanHangForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LichSuNhapHangForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DangNhapForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.MainForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.NhapHangForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThayDoiMKThanhCongForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThemSanPhamForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThongTinCaNhanForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThongTinNCCForm.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe.licenses
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraReports.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraReports.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.InvoiceReport.resources
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.DataAccess.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Xpo.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraReports.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.CodeParser.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Images.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.DataAccess.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Xpo.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraReports.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\CNPM\finalcnpm\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.InvoiceReport.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe.config
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.pdb
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BouncyCastle.Crypto.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\itextsharp.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DAO.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Images.v20.1.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\BUS.pdb
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DTO.pdb
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\itextsharp.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DAO.pdb
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.AssemblyReference.cache
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.BanHangForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DoiMatKhauForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraTKvaMKcuForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraXacNhanMKMoiForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraMatKhauMoiForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DanhSachNhanVienForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.InMaVachForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KhoThuocForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LichSuBanHangForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.LichSuNhapHangForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DangNhapForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.MainForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.NhapHangForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThayDoiMKThanhCongForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThemSanPhamForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThongTinCaNhanForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThongTinNCCForm.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.InvoiceReport.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.Properties.Resources.resources
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.GenerateResource.cache
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe.licenses
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CoreCompileInputs.cache
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CopyComplete
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe
+D:\LTV\CNPM\SE_Final-main\QUANLYQUAYTHUOC\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.pdb
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.AssemblyReference.cache
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.BanHangForm.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DoiMatKhauForm.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraForm.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraTKvaMKcuForm.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraXacNhanMKMoiForm.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KiemTraMatKhauMoiForm.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DanhSachNhanVienForm.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.KhoThuocForm.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.DangNhapForm.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.MainForm.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThayDoiMKThanhCongForm.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThemSanPhamForm.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThongTinCaNhanForm.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.ThongTinNCCForm.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.AppForm.InvoiceReport.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.Properties.Resources.resources
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.GenerateResource.cache
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe.licenses
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.csproj.CoreCompileInputs.cache
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.exe
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\obj\Debug\QUANLYQUAYTHUOC.pdb
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe.config
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.exe
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\QUANLYQUAYTHUOC.pdb
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\BouncyCastle.Crypto.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\BUS.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DTO.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\itextsharp.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DAO.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Images.v20.1.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\BUS.pdb
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DTO.pdb
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Data.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\itextsharp.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DAO.pdb
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\LTV\CNPM\Demo\QuanLyQuayThuoc\QUANLYQUAYTHUOC\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
