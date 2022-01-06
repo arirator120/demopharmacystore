@@ -1,3 +1,7 @@
-TADAadmin
+Tk admin:
+admin@pharmacity.com -mk: 123456
 
-TADATADATADA
+Tk dược sĩ:
+duy@pharmacity.com - mk: 123456
+thai@pharmacity.com - mk: 123456
+
