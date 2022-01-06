@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dthd.quanlyquaythuoc">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Trang chủ"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.QuanLyQuayThuoc">
+        <activity
+            android:name=".controller.EditAmountActivity"
+            android:exported="false" />
+        <activity
+            android:name=".controller.AmountMedicinesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".controller.MakeNewBillActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustNothing" />
+        <activity
+            android:name=".activity.ViewMedicinesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".controller.AddEditEmployeeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".controller.AddEditCompanyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.employee.AdminHomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".controller.ViewEditActivity"
+            android:exported="false" />
+        <activity
+            android:name=".controller.AddMedicineActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.employee.EmployeeHomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.client.ClientRegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.employee.EmployeeLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.client.ClientLoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.client.ClientHomeActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

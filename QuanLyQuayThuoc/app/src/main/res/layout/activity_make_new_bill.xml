@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".controller.MakeNewBillActivity"
+    >
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#E7A8A8"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TableRow
+                android:layout_margin="5dp"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Người lập:"
+                    android:textSize="15sp"
+                    android:layout_gravity="center_vertical|right"
+                    />
+
+                <EditText
+                    android:id="@+id/etName"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:enabled="false"
+                    android:inputType="none"
+                    android:textColor="#111111"
+                    android:textStyle="bold"
+                    tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+            </TableRow>
+            <TableRow
+                android:layout_margin="5dp"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tên khách:"
+                    android:textSize="15sp"
+                    android:layout_gravity="center_vertical|right"
+                    />
+
+                <EditText
+                    android:id="@+id/etNameClient"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:hint="Nhập họ tên khách hàng"
+                    android:textStyle="bold"
+                    tools:ignore="TouchTargetSizeCheck"
+                    />
+            </TableRow>
+            <TableRow
+                android:layout_margin="5dp"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Địa chỉ:"
+                    android:textSize="15sp"
+                    android:layout_gravity="center_vertical|right"
+                    />
+
+                <EditText
+                    android:id="@+id/etAddress"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:hint="Nhập địa chỉ (chỉ giao trong TPHCM)"
+                    android:textStyle="bold"
+                    tools:ignore="TouchTargetSizeCheck" />
+            </TableRow>
+            <TableRow
+                android:layout_margin="5dp"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SĐT:"
+                    android:textSize="15sp"
+                    android:layout_gravity="center_vertical|right"
+                    />
+
+                <EditText
+                    android:id="@+id/etPhone"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:hint="Nhập SĐT"
+                    android:inputType="numberDecimal"
+                    android:textStyle="bold"
+                    android:maxLength="10"
+                    tools:ignore="TouchTargetSizeCheck" />
+            </TableRow>
+        </TableLayout>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#AEA8A8"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:orientation="vertical"
+
+        >
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/rvBill"
+            />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#AEA8A8"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:gravity="bottom"
+        >
+
+            <TextView
+                android:id="@+id/tvNameTongTT"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tổng hóa đơn"
+                android:textStyle="bold"
+                android:textColor="#111111"
+                android:textSize="20sp"
+                />
+
+        <TextView
+            android:id="@+id/tvSum"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="126000đ"
+            android:textColor="#FF5722"
+            android:textSize="20sp"
+            android:textStyle="bold"
+
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_datHang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnConfirm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center"
+            android:backgroundTint="#FF5722"
+            android:text="Xác nhận Lập đơn hàng"
+            tools:ignore="TouchTargetSizeCheck" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

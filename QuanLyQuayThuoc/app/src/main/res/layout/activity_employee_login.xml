@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.employee.EmployeeLoginActivity"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Employee Login"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="134dp"
+        tools:layout_editor_absoluteY="53dp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="122dp" />
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="110dp" />
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="194dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="208dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nếu không phải nhân viên. Đăng nhập"
+        tools:layout_editor_absoluteX="65dp"
+        tools:layout_editor_absoluteY="626dp" />
+
+    <TextView
+        android:id="@+id/tvLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:text="tại đây"
+        android:textColor="#4CAF50"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="303dp"
+        tools:layout_editor_absoluteY="626dp" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="175dp"
+        android:layout_height="40dp"
+        android:text="Đăng nhập"
+        tools:layout_editor_absoluteX="118dp"
+        tools:layout_editor_absoluteY="285dp" />
+
+
+
+</LinearLayout>

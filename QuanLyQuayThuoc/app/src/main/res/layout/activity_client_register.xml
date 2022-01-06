@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.client.ClientRegisterActivity"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tạo tài khoản mới"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="125dp"
+        tools:layout_editor_absoluteY="33dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="108dp" />
+    <EditText
+        android:id="@+id/etEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="98dp" />\
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Full name"
+        tools:layout_editor_absoluteX="13dp"
+        tools:layout_editor_absoluteY="181dp" />
+    <EditText
+        android:id="@+id/etFullName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="169dp" />
+
+    <EditText
+        android:id="@+id/etPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="426dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Phone"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="441dp" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="261dp" />
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="247dp" />
+
+
+    <TextView
+        android:layout_width="65dp"
+        android:layout_height="57dp"
+        android:text="Confirm Password"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="331dp" />
+
+    <EditText
+        android:id="@+id/etConfirmPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="331dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nếu bạn đã có tài khoản. Đăng nhập"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="626dp" />
+
+    <TextView
+        android:id="@+id/tvLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:text="tại đây"
+        android:textColor="#4CAF50"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="303dp"
+        tools:layout_editor_absoluteY="626dp" />
+
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="175dp"
+        android:layout_height="40dp"
+        android:text="Đăng ký"
+        tools:layout_editor_absoluteX="118dp"
+        tools:layout_editor_absoluteY="521dp" />
+
+
+</LinearLayout>
