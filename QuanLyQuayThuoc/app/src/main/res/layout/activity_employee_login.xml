@@ -72,4 +72,15 @@ tools:context=".activity.employee.EmployeeLoginActivity">
     android:textSize="18sp"
     android:textStyle="bold"
     android:text="Đăng nhập" />
+
+    <TextView
+        android:id="@+id/tvLogin"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Nếu không phải nhân viên, vui lòng đăng nhập tại đây"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold"/>
 </LinearLayout>

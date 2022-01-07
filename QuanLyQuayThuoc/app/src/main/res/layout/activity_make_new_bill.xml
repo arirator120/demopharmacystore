@@ -20,7 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:background="#E7A8A8"
+        android:background="#FFFFFF"
         android:gravity="center"
         android:orientation="vertical"
         >
@@ -34,8 +34,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Người lập:"
+                    android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:layout_gravity="center_vertical|right"
+                    android:layout_gravity="center_vertical"
                     />
 
                 <EditText
@@ -47,7 +48,6 @@
                     android:enabled="false"
                     android:inputType="none"
                     android:textColor="#111111"
-                    android:textStyle="bold"
                     tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
             </TableRow>
             <TableRow
@@ -57,8 +57,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Tên khách:"
+                    android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:layout_gravity="center_vertical|right"
+                    android:layout_gravity="center_vertical"
                     />
 
                 <EditText
@@ -68,7 +69,7 @@
                     android:layout_margin="5dp"
                     android:layout_weight="1"
                     android:hint="Nhập họ tên khách hàng"
-                    android:textStyle="bold"
+                    android:textColor="@color/black"
                     tools:ignore="TouchTargetSizeCheck"
                     />
             </TableRow>
@@ -79,8 +80,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Địa chỉ:"
+                    android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:layout_gravity="center_vertical|right"
+                    android:layout_gravity="center_vertical"
                     />
 
                 <EditText
@@ -90,7 +92,7 @@
                     android:layout_margin="5dp"
                     android:layout_weight="1"
                     android:hint="Nhập địa chỉ (chỉ giao trong TPHCM)"
-                    android:textStyle="bold"
+                    android:textColor="@color/black"
                     tools:ignore="TouchTargetSizeCheck" />
             </TableRow>
             <TableRow
@@ -100,8 +102,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="SĐT:"
+                    android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:layout_gravity="center_vertical|right"
+                    android:layout_gravity="center_vertical"
                     />
 
                 <EditText
@@ -110,9 +113,9 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="5dp"
                     android:layout_weight="1"
-                    android:hint="Nhập SĐT"
+                    android:hint="Nhập SĐT khách hàng"
+                    android:textColor="@color/black"
                     android:inputType="numberDecimal"
-                    android:textStyle="bold"
                     android:maxLength="10"
                     tools:ignore="TouchTargetSizeCheck" />
             </TableRow>
@@ -128,7 +131,6 @@
         android:layout_width="match_parent"
         android:layout_height="250dp"
         android:orientation="vertical"
-
         >
 
         <androidx.recyclerview.widget.RecyclerView
@@ -169,7 +171,7 @@
             android:layout_weight="1"
             android:gravity="right"
             android:text="126000đ"
-            android:textColor="#FF5722"
+            android:textColor="#C80000"
             android:textSize="20sp"
             android:textStyle="bold"
 
@@ -187,12 +189,19 @@
 
         <Button
             android:id="@+id/btnConfirm"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_vertical|center"
-            android:backgroundTint="#FF5722"
-            android:text="Xác nhận Lập đơn hàng"
-            tools:ignore="TouchTargetSizeCheck" />
+            android:layout_marginStart="32dp"
+            android:layout_marginLeft="32dp"
+            android:layout_marginEnd="32dp"
+            android:layout_marginRight="32dp"
+            android:background="@drawable/borderbtn"
+            android:text="Xác nhận lập hóa đơn"
+            tools:ignore="TouchTargetSizeCheck"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"/>
 
     </LinearLayout>
 
