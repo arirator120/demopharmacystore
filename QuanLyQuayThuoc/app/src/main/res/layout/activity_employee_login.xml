@@ -1,79 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:gravity="center"
+android:layout_margin="20dp"
+tools:context=".activity.employee.EmployeeLoginActivity">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="TRANG ĐĂNG NHẬP NHÂN VIÊN"
+    android:gravity="center"
+    android:textSize="30sp"
+    android:paddingBottom="25dp"
+    android:textColor="@color/colorPrimary"
+    android:textStyle="bold"/>
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/img_nv" />
+
+<EditText
+    android:id="@+id/etEmail"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".activity.employee.EmployeeLoginActivity"
-    android:orientation="vertical"
-    >
+    android:layout_height="wrap_content"
+    android:hint="Email"
+    android:layout_marginStart="32dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginEnd="32dp"
+    android:background="@drawable/border"
+    android:drawableStart="@drawable/email"
+    android:drawablePadding="16dp"
+    android:ems="10"
+    android:textSize="18sp"
+    android:textColor="#000000"
+    android:inputType="text|textEmailAddress"
+    android:padding="16dp" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Employee Login"
-        android:textSize="20sp"
-        tools:layout_editor_absoluteX="134dp"
-        tools:layout_editor_absoluteY="53dp" />
+<EditText
+    android:id="@+id/etPassword"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Mật khẩu"
+    android:layout_marginStart="32dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginEnd="32dp"
+    android:background="@drawable/border"
+    android:drawableStart="@drawable/password"
+    android:drawablePadding="16dp"
+    android:ems="10"
+    android:textSize="18sp"
+    android:textColor="#000000"
+    android:inputType="textPassword"
+    android:padding="16dp" />
 
+<Button
+    android:id="@+id/btnLogin"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="32dp"
+    android:layout_marginLeft="32dp"
+    android:layout_marginTop="12dp"
+    android:layout_marginEnd="32dp"
+    android:layout_marginRight="32dp"
+    android:background="@drawable/borderbtn"
+    android:textColor="#FFFFFF"
+    android:textSize="18sp"
+    android:textStyle="bold"
+    android:text="Đăng nhập" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Email"
-        tools:layout_editor_absoluteX="30dp"
-        tools:layout_editor_absoluteY="122dp" />
-
-    <EditText
-        android:id="@+id/etEmail"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        tools:layout_editor_absoluteX="105dp"
-        tools:layout_editor_absoluteY="110dp" />
-
-    <EditText
-        android:id="@+id/etPassword"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPassword"
-        tools:layout_editor_absoluteX="105dp"
-        tools:layout_editor_absoluteY="194dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Password"
-        tools:layout_editor_absoluteX="10dp"
-        tools:layout_editor_absoluteY="208dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Nếu không phải nhân viên. Đăng nhập"
-        tools:layout_editor_absoluteX="65dp"
-        tools:layout_editor_absoluteY="626dp" />
-
-    <TextView
-        android:id="@+id/tvLogin"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:clickable="true"
-        android:text="tại đây"
-        android:textColor="#4CAF50"
-        android:textStyle="bold"
-        tools:layout_editor_absoluteX="303dp"
-        tools:layout_editor_absoluteY="626dp" />
-
-    <Button
-        android:id="@+id/btnLogin"
-        android:layout_width="175dp"
-        android:layout_height="40dp"
-        android:text="Đăng nhập"
-        tools:layout_editor_absoluteX="118dp"
-        tools:layout_editor_absoluteY="285dp" />
-
+<TextView
+    android:id="@+id/tvLogin"
+    android:layout_width="220dp"
+    android:layout_height="wrap_content"
+    android:text="Nếu không phải nhân viên, vui lòng đăng nhập tại đây"
+    android:layout_marginTop="50dp"
+    android:gravity="center"
+    android:textColor="@color/colorPrimary"
+    android:textSize="18sp"
+    android:textStyle="bold" />
 
 
 </LinearLayout>
