@@ -83,7 +83,7 @@
                     android:layout_height="160dp"
                     android:ems="10"
                     android:gravity="left|top"
-                    android:hint=" Nhập nơi sản xuất..."
+                    android:hint=" Nhập nơi sản xuất... Duy Duy"
                     android:inputType="textMultiLine"
                     android:textSize="15sp" />
             </TableRow>
