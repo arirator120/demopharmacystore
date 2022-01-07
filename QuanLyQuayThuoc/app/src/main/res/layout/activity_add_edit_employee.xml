@@ -11,16 +11,23 @@
         android:id="@+id/my_toolbar"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="?attr/colorPrimary"
+        android:background="#BB86FC"
         android:elevation="4dp"
         android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="?attr/colorPrimary"
+        android:padding="15dp"
+        android:textStyle="bold"
+        android:text="QUẢN LÝ NHÂN VIÊN"
+        android:textSize="22sp" />
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical"
-        >
+        android:orientation="vertical">
 
 
         <TableLayout
@@ -29,20 +36,25 @@
             android:layout_height="match_parent"
             android:layout_above="@id/bottom_navigation"
             android:padding="10dp"
+            android:layout_margin="15dp"
             android:stretchColumns="1">
 
             <TableRow>
-
                 <TextView
-                    android:layout_width="wrap_content"
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
+                    android:layout_weight="2"
                     android:minHeight="48dp"
+                    android:textColor="#8C5ECE"
+                    android:textSize="16dp"
+                    android:textStyle="bold"
                     android:text="Họ tên" />
 
                 <EditText
                     android:id="@+id/etName"
-                    android:layout_width="match_parent"
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
+                    android:layout_weight="8"
                     android:minHeight="48dp"
                     tools:ignore="SpeakableTextPresentCheck">
 
@@ -53,15 +65,20 @@
             <TableRow>
 
                 <TextView
-                    android:layout_width="wrap_content"
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
+                    android:layout_weight="2"
                     android:minHeight="48dp"
+                    android:textSize="16dp"
+                    android:textColor="#8C5ECE"
+                    android:textStyle="bold"
                     android:text="SĐT " />
 
                 <EditText
                     android:id="@+id/etPhone"
-                    android:layout_width="match_parent"
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
+                    android:layout_weight="8"
                     android:inputType="phone"
                     android:maxLength="10"
                     android:minHeight="48dp"
@@ -72,14 +89,21 @@
             <TableRow>
 
                 <TextView
-                    android:layout_width="wrap_content"
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:gravity="center_vertical"
+                    android:layout_weight="2"
                     android:minHeight="48dp"
+                    android:textColor="#8C5ECE"
+                    android:textSize="16dp"
+                    android:textStyle="bold"
                     android:text="Giới tính" />
 
                 <RadioGroup
                     android:id="@+id/groupSex"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="8"
                     android:orientation="horizontal">
 
                     <RadioButton
@@ -87,6 +111,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:checked="true"
+                        android:paddingRight="20dp"
                         android:text="Male" />
 
                     <RadioButton
@@ -106,7 +131,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
-            app:itemIconTint="#FF5722"
+            app:itemIconTint="#A32EB6"
             app:menu="@menu/menu_bottom_add_edit" />
     </RelativeLayout>
 
