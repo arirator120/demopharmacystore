@@ -29,6 +29,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
+        tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck,SpeakableTextPresentCheck,SpeakableTextPresentCheck"
         tools:layout_editor_absoluteX="105dp"
         tools:layout_editor_absoluteY="110dp" />
 
@@ -38,6 +39,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPassword"
+        tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck,TouchTargetSizeCheck,TouchTargetSizeCheck"
         tools:layout_editor_absoluteX="105dp"
         tools:layout_editor_absoluteY="194dp" />
 
@@ -63,6 +65,7 @@
         android:text="tại đây"
         android:textColor="#4CAF50"
         android:textStyle="bold"
+        tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck"
         tools:layout_editor_absoluteX="303dp"
         tools:layout_editor_absoluteY="626dp" />
 
@@ -71,6 +74,7 @@
         android:layout_width="175dp"
         android:layout_height="40dp"
         android:text="Đăng nhập"
+        tools:ignore="TouchTargetSizeCheck"
         tools:layout_editor_absoluteX="118dp"
         tools:layout_editor_absoluteY="285dp" />
 

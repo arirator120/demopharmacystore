@@ -3,20 +3,6 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/1. CNPM/Demo_Andoird/QuanLyQuayThuoc/app/src/main/res/layout/activity_add_edit_company.xml" value="0.264" />
-        <entry key="..\:/1. CNPM/Demo_Andoird/QuanLyQuayThuoc/app/src/main/res/layout/activity_add_edit_employee.xml" value="0.22447916666666667" />
-        <entry key="..\:/1. CNPM/Demo_Andoird/QuanLyQuayThuoc/app/src/main/res/layout/activity_add_medicine.xml" value="0.264" />
-        <entry key="..\:/1. CNPM/Demo_Andoird/QuanLyQuayThuoc/app/src/main/res/layout/activity_admin_home.xml" value="0.22447916666666667" />
-        <entry key="..\:/1. CNPM/Demo_Andoird/QuanLyQuayThuoc/app/src/main/res/layout/activity_amount_medicines.xml" value="0.22447916666666667" />
-        <entry key="..\:/1. CNPM/Demo_Andoird/QuanLyQuayThuoc/app/src/main/res/layout/nav_header.xml" value="0.4" />
-        <entry key="..\:/1. CNPM/Demo_Andoird/QuanLyQuayThuoc/app/src/main/res/layout/row_item_bill.xml" value="0.536" />
-        <entry key="..\:/1. CNPM/Demo_Andoird/QuanLyQuayThuoc/app/src/main/res/layout/row_item_medicine.xml" value="0.18177083333333333" />
-        <entry key="..\:/1. CNPM/Demo_Andoird/QuanLyQuayThuoc/app/src/main/res/menu/drawer_menu_client.xml" value="0.25416666666666665" />
-        <entry key="..\:/1. CNPM/Demo_Andoird/QuanLyQuayThuoc/app/src/main/res/menu/drawer_menu_employee.xml" value="0.25416666666666665" />
-        <entry key="..\:/1. CNPM/Demo_Andoird/QuanLyQuayThuoc/app/src/main/res/menu/menu_bottom_add_edit.xml" value="0.25416666666666665" />
-        <entry key="..\:/1. CNPM/Demo_Andoird/QuanLyQuayThuoc/app/src/main/res/menu/menu_bottom_view.xml" value="0.25416666666666665" />
-        <entry key="..\:/1. CNPM/Demo_Andoird/QuanLyQuayThuoc/app/src/main/res/menu/menu_edit_delete.xml" value="0.25416666666666665" />
-        <entry key="..\:/1. CNPM/Demo_Andoird/QuanLyQuayThuoc/app/src/main/res/menu/option_menu.xml" value="0.25416666666666665" />
         <entry key="..\:/LTV/CNPM/QuanLyQuayThuoc/app/src/main/res/drawable-v24/ic_baseline_settings.xml" value="0.34371807967313583" />
         <entry key="..\:/LTV/CNPM/QuanLyQuayThuoc/app/src/main/res/drawable-v24/ic_home.xml" value="0.34371807967313583" />
         <entry key="..\:/LTV/CNPM/QuanLyQuayThuoc/app/src/main/res/drawable-v24/ic_logout.xml" value="0.34371807967313583" />
@@ -62,6 +48,23 @@
         <entry key="..\:/LTV/CNPM/QuanLyQuayThuoc/app/src/main/res/menu/menu_bottom_view.xml" value="0.17916666666666667" />
         <entry key="..\:/LTV/CNPM/QuanLyQuayThuoc/app/src/main/res/menu/menu_edit_delete.xml" value="0.3302083333333333" />
         <entry key="..\:/LTV/CNPM/QuanLyQuayThuoc/app/src/main/res/menu/option_menu.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/layout/activity_add_edit_company.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/layout/activity_add_medicine.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/layout/activity_admin_home.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/layout/activity_amount_medicines.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/layout/activity_client_home.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/layout/activity_client_login.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/layout/activity_client_register.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/layout/activity_edit_amount.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/layout/activity_employee_home.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/layout/activity_employee_login.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/layout/nav_header.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/layout/row_item_cart.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/layout/row_item_company.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/menu/drawer_menu.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/menu/drawer_menu_client.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/menu/drawer_menu_employee.xml" value="0.6" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/DemoCNPM/QuanLyQuayThuoc/app/src/main/res/menu/menu_bottom_add_edit.xml" value="0.25" />
       </map>
     </option>
   </component>

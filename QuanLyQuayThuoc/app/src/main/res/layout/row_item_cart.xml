@@ -31,6 +31,8 @@
                 android:layout_height="match_parent"
                 android:textColor="#111111"
                 android:text="Thuốc tránh thai"
+
+                android:textStyle="bold"
                 android:textSize="20sp"
                 />
             <TableLayout
@@ -67,6 +69,8 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
                         android:text="Số lượng:"
                         android:layout_gravity="center_vertical"
                     />
@@ -76,7 +80,7 @@
                         android:textColor="#FF5722"
                         android:gravity="center_horizontal"
                         android:text="0"
-                        android:textSize="18sp"
+                        android:textSize="20sp"
                         tools:ignore="TouchTargetSizeCheck"
                         />
                 </TableRow>
