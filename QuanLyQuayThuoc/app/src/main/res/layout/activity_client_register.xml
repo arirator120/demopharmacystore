@@ -37,7 +37,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="2"
             android:text="Email"
-            android:paddingLeft="5dp"
+            android:paddingLeft="15dp"
             android:textColor="#8C5ECE"
             android:textStyle="bold"
             android:textSize="15sp"
@@ -55,8 +55,6 @@
             tools:layout_editor_absoluteY="98dp" />
     </LinearLayout>
 
-    \
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -68,7 +66,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="2"
             android:text="Họ và tên"
-            android:paddingLeft="5dp"
+            android:paddingLeft="15dp"
             android:textSize="15sp"
             android:textStyle="bold"
             android:textColor="#8C5ECE"
@@ -95,7 +93,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="2"
-            android:paddingLeft="5dp"
+            android:paddingLeft="15dp"
             android:text="SĐT"
             android:textColor="#8C5ECE"
             android:textSize="15sp"
@@ -124,7 +122,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="2"
-            android:paddingLeft="5dp"
+            android:paddingLeft="15dp"
             android:text="Mật khẩu"
             android:textColor="#8C5ECE"
             android:textSize="15sp"
@@ -154,7 +152,7 @@
             android:layout_width="0dp"
             android:layout_height="57dp"
             android:layout_weight="2"
-            android:paddingLeft="5dp"
+            android:paddingLeft="15dp"
             android:text="Xác nhận mật khẩu"
             android:textColor="#8C5ECE"
             android:textSize="15sp"
@@ -177,8 +175,9 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="15dp"
         android:gravity="left"
+        android:layout_marginLeft="10dp"
         android:orientation="vertical">
 
         <TextView
