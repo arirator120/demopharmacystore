@@ -21,7 +21,7 @@ import com.google.firebase.database.FirebaseDatabase;
 
 public class ViewMedicinesActivity extends AppCompatActivity {
     ImageView ivPic;
-    TextView tvNameProduct, tvPrice,tvAmount, tvDate, tvDetails, tvCompany;
+    TextView tvNameProduct, tvPrice, tvDate, tvDetails, tvCompany;
 
     medicine m;
     BottomNavigationView bottomNavigationView;
@@ -54,7 +54,6 @@ public class ViewMedicinesActivity extends AppCompatActivity {
     public void inIt(){
         tvNameProduct =  findViewById(R.id.tvNameProduct);
         tvPrice =  findViewById(R.id.tvPrice);
-        tvAmount =  findViewById(R.id.tvAmount);
         tvDate =  findViewById(R.id.tvDate);
         tvCompany =  findViewById(R.id.tvCompany);
         tvDetails =  findViewById(R.id.tvDetails);
@@ -73,7 +72,6 @@ public class ViewMedicinesActivity extends AppCompatActivity {
         String priceFormat = String.format("%,d", m.getPrice());
         String price = priceFormat.replace(",",".");
         tvPrice.setText(price);
-        tvAmount.setText(m.getAmount() + "");
         tvDate.setText(m.getDate());
         tvDetails.setText(m.getDetails());
 
