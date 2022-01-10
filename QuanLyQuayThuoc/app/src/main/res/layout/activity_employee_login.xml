@@ -12,12 +12,20 @@ tools:context=".activity.employee.EmployeeLoginActivity">
 <TextView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="TRANG ĐĂNG NHẬP NHÂN VIÊN"
+    android:text="TRANG ĐĂNG NHẬP"
     android:gravity="center"
     android:textSize="30sp"
-    android:paddingBottom="25dp"
     android:textColor="@color/colorPrimary"
     android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NHÂN VIÊN"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:paddingBottom="25dp"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold"/>
 
     <ImageView
         android:layout_width="150dp"
@@ -73,14 +81,37 @@ tools:context=".activity.employee.EmployeeLoginActivity">
     android:textStyle="bold"
     android:text="Đăng nhập" />
 
-    <TextView
-        android:id="@+id/tvLogin"
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
-        android:text="Nếu không phải nhân viên, vui lòng đăng nhập tại đây"
-        android:gravity="center"
-        android:textSize="20sp"
-        android:textColor="@color/colorPrimary"
-        android:textStyle="bold"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="20dp"
+            android:gravity="left"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nếu không phải nhân viên, đăng nhập"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:textStyle="italic"
+                tools:layout_editor_absoluteX="125dp"
+                tools:layout_editor_absoluteY="392dp" />
+
+            <TextView
+                android:id="@+id/tvLogin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:clickable="true"
+                android:text="Tại đây"
+                android:textSize="20sp"
+                android:textColor="#4CAF50"
+                android:textStyle="bold"
+                tools:ignore="TouchTargetSizeCheck"
+                tools:layout_editor_absoluteX="255dp"
+                tools:layout_editor_absoluteY="392dp" />
+        </LinearLayout>
+
 </LinearLayout>
