@@ -8,18 +8,28 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
+
 import androidx.annotation.NonNull;
+import androidx.appcompat.app.AlertDialog;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 import com.dthd.quanlyquaythuoc.R;
 import com.dthd.quanlyquaythuoc.model.bill;
+import com.dthd.quanlyquaythuoc.model.medicine;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 
 import java.util.List;
 
 public class BillHistoryAdapter extends RecyclerView.Adapter<BillHistoryAdapter.ViewHolder>{
+
+    FirebaseDatabase mDatabase = FirebaseDatabase.getInstance();
+    DatabaseReference _myRef;
 
     private List<bill> billList;
     private Context mContext;
@@ -51,6 +61,35 @@ public class BillHistoryAdapter extends RecyclerView.Adapter<BillHistoryAdapter.
 
         holder.tvDate.setText(b.getDate());
 
+        holder.imgBtnDelete.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                onClickDelete(b);
+            }
+        });
+
+    }
+
+    private void onClickDelete(bill b) {
+        new AlertDialog.Builder(mContext)
+                .setTitle(mContext.getString(R.string.app_name))
+                .setMessage("Bạn có chắc muốn xóa sản phẩm này?")
+                .setPositiveButton("Xóa", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialogInterface, int i) {
+                        _myRef = mDatabase.getReference("BillsHistory");
+                        _myRef.child(b.getId()).removeValue(); //xóa object trên fb
+                        Toast.makeText(mContext, "Xóa thành công!!", Toast.LENGTH_LONG).show();
+                        dialogInterface.dismiss();
+                    }
+                })
+                .setNegativeButton("Dừng", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialogInterface, int i) {
+                        dialogInterface.dismiss();
+                    }
+                })
+                .show();
     }
 
     public void release(){
@@ -68,6 +107,8 @@ public class BillHistoryAdapter extends RecyclerView.Adapter<BillHistoryAdapter.
         CardView layout_item;
         LinearLayout layout_content;
         TextView tvName, tvPrice, tvDate;
+        ImageButton imgBtnDelete;
+
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
             tvName = itemView.findViewById(R.id.tvName);
@@ -75,6 +116,7 @@ public class BillHistoryAdapter extends RecyclerView.Adapter<BillHistoryAdapter.
             layout_item = itemView.findViewById(R.id.layout_item);
             tvDate = itemView.findViewById(R.id.tvDate);
             layout_content= itemView.findViewById(R.id.layout_content);
+            imgBtnDelete = itemView.findViewById(R.id.imgBtnDelete);
 
         }
     }

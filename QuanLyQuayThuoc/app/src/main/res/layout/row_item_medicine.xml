@@ -32,12 +32,11 @@
                 >
                 <TableRow>
                     <TextView
-                        android:layout_width="0dp"
+                        android:layout_width="wrap_content"
                         android:layout_height="match_parent"
-                        android:layout_weight="1"
                         android:textColor="@color/black"
                         android:textSize="18sp"
-                        android:text="Tên:"
+                        android:text="Tên: "
                         />
                     <TextView
                         android:id="@+id/tvNameProduct"
@@ -58,12 +57,11 @@
                 >
                 <TableRow>
                     <TextView
-                        android:layout_width="0dp"
+                        android:layout_width="wrap_content"
                         android:layout_height="match_parent"
-                        android:layout_weight="1"
                         android:textColor="@color/black"
                         android:textSize="18sp"
-                        android:text="Giá tiền:"
+                        android:text="Giá tiền: "
                         />
                     <TextView
                         android:id="@+id/tvPrice"
