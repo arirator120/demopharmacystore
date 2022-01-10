@@ -54,7 +54,7 @@ public class BillHistoryAdapter extends RecyclerView.Adapter<BillHistoryAdapter.
         if(b==null)
             return;
 
-        holder.tvName.setText("Hóa đơn " + b.getNameEmployee() + " lập (Chưa thanh toán)");
+        holder.tvName.setText("Hóa đơn " + b.getNameEmployee());
         String priceFormat = String.format("%,d",b.getSum());
         String price = priceFormat.replace(",","."); //thay , thành .
         holder.tvPrice.setText(price);

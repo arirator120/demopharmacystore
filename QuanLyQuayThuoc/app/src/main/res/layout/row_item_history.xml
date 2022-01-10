@@ -6,80 +6,89 @@
     android:gravity="center_vertical"
     android:padding="5dp"
     app:cardCornerRadius="10dp"
-    android:layout_margin="5dp"
     android:id="@+id/layout_item"
+    android:layout_margin="5dp"
     android:outlineSpotShadowColor="#123456"
     android:layout_height="wrap_content">
     <LinearLayout
         android:layout_width="match_parent"
         android:gravity="center_vertical"
         android:padding="5dp"
-        android:background="@drawable/border"
+        android:id="@+id/layout_content"
         android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/ivPic"
+            android:src="@drawable/ic_bill"
+            android:layout_width="50dp"
+            android:layout_height="50dp"/>
+
         <LinearLayout
             android:layout_width="0dp"
-            android:padding="5dp"
+            android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:id="@+id/layout_content"
             android:orientation="vertical"
-            android:layout_height="wrap_content">
-            <TableLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                >
-                <TableRow>
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:textColor="@color/black"
-                        android:textSize="18sp"
-                        android:paddingRight="15dp"
-                        android:drawableStart="@drawable/ic_bill"/>
-                    <TextView
-                        android:id="@+id/tvName"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:textColor="#111111"
-                        android:text="Bill"
-                        android:textSize="18sp"
-                        />
-                </TableRow>
+            android:padding="10dp">
 
-            </TableLayout>
-            <TableLayout
+            <TextView
+                android:id="@+id/tvName"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                >
+                android:text="Bill"
+                android:textColor="#131313"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="(Chưa thanh toán)"
+                android:textColor="#131313"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
                 <TableRow>
+
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:textColor="@color/black"
                         android:textSize="16sp"
                         android:text="Số tiền: "/>
+
                     <TextView
                         android:id="@+id/tvPrice"
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
+                        android:text="20.000"
                         android:textColor="#C80000"
-                        android:textStyle="bold"
                         android:textSize="16sp"
-                        android:text="20.000"/>
+                        android:textStyle="bold" />
+
                     <TextView
-                        android:layout_width="wrap_content"
+                        android:layout_width="0dp"
                         android:layout_height="match_parent"
+                        android:layout_weight="1"
                         android:textColor="#C80000"
                         android:textStyle="bold"
                         android:textSize="16sp"
                         android:text=",00 VNĐ"
                         />
+                </TableRow>
+
+            </TableLayout>
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TableRow>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:textColor="@color/black"
                         android:textSize="16sp"
-                        android:paddingLeft="15dp"
-                        android:text="Lập ngày:"/>
+                        android:text="Lập ngày: "/>
                     <TextView
                         android:id="@+id/tvDate"
                         android:layout_width="wrap_content"
@@ -93,6 +102,7 @@
 
             </TableLayout>
         </LinearLayout>
+
         <ImageButton
             android:id="@+id/imgBtnDelete"
             android:layout_width="wrap_content"
@@ -100,7 +110,5 @@
             android:backgroundTint="#FF002E"
             android:src="@drawable/ic_delete"
             tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
-
     </LinearLayout>
-
 </androidx.cardview.widget.CardView>
