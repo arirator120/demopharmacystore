@@ -56,7 +56,7 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
-                                android:text="Tên sản phẩm: "
+                                android:text="Tên: "
                                 android:textColor="#111111"
                                 android:textSize="20sp" />
 
