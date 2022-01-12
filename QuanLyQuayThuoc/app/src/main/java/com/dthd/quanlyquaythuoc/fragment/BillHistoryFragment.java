@@ -64,7 +64,11 @@ public class BillHistoryFragment extends Fragment {
         rvHistoryBill = v.findViewById(R.id.rvHistoryBill);
         getData();
 
-        rvHistoryBill.setLayoutManager(new LinearLayoutManager(v.getContext()));
+        LinearLayoutManager mLayoutManager = new LinearLayoutManager(v.getContext());
+        mLayoutManager.setReverseLayout(true);
+        mLayoutManager.setStackFromEnd(true);
+
+        rvHistoryBill.setLayoutManager(mLayoutManager);
         rvHistoryBill.setHasFixedSize(true);
         adapter = new BillHistoryAdapter(listHistory,v.getContext());
         rvHistoryBill.setAdapter(adapter);

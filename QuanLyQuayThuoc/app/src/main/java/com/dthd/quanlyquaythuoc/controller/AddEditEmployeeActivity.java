@@ -53,7 +53,7 @@ public class AddEditEmployeeActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
         toolbar.setTitle("");
 
-
+        getSupportActionBar().setTitle("");
         toolbar.setNavigationIcon(getResources().getDrawable(R.drawable.ic_action_back));
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override

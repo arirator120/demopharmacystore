@@ -15,7 +15,9 @@ import android.view.ViewGroup;
 import android.widget.Toast;
 
 import com.dthd.quanlyquaythuoc.R;
+import com.dthd.quanlyquaythuoc.activity.client.ClientHomeActivity;
 import com.dthd.quanlyquaythuoc.activity.client.ClientLoginActivity;
+import com.dthd.quanlyquaythuoc.activity.employee.AdminHomeActivity;
 import com.dthd.quanlyquaythuoc.activity.employee.EmployeeHomeActivity;
 import com.dthd.quanlyquaythuoc.adapter.MedicineAdapter;
 import com.dthd.quanlyquaythuoc.adapter.ViewMedicinesAdapter;
@@ -65,6 +67,14 @@ public class AdminHomeFragment extends Fragment {
         View v = inflater.inflate(R.layout.fragment_admin_home, container, false);
         mAuth = FirebaseAuth.getInstance();
         mUser = mAuth.getCurrentUser();
+
+
+        if(mUser.getEmail().contains("@pharmacity.com")){
+            ((AdminHomeActivity)getActivity()).getSupportActionBar().setTitle("Trang chủ");
+        }else{
+            ((ClientHomeActivity)getActivity()).getSupportActionBar().setTitle("Trang chủ");
+        }
+
 
         rvMedicine = v.findViewById(R.id.rvMedicine);
         getData();

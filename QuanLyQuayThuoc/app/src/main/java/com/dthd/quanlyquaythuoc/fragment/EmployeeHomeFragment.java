@@ -16,6 +16,8 @@ import android.view.ViewGroup;
 import android.widget.ImageButton;
 
 import com.dthd.quanlyquaythuoc.R;
+import com.dthd.quanlyquaythuoc.activity.employee.AdminHomeActivity;
+import com.dthd.quanlyquaythuoc.activity.employee.EmployeeHomeActivity;
 import com.dthd.quanlyquaythuoc.adapter.MedicineAdapter;
 import com.dthd.quanlyquaythuoc.adapter.ViewMedicinesAdapter;
 import com.dthd.quanlyquaythuoc.controller.AmountMedicinesActivity;
@@ -69,6 +71,7 @@ public class EmployeeHomeFragment extends Fragment {
 
         // Inflate the layout for this fragment
         View v =  inflater.inflate(R.layout.fragment_employee_home, container, false);
+        ((EmployeeHomeActivity)getActivity()).getSupportActionBar().setTitle("Trang chủ");
 
         rvMedicine = v.findViewById(R.id.rvMedicine);
         ivCart = v.findViewById(R.id.ivCart);

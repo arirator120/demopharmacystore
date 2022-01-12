@@ -81,7 +81,6 @@ public class ClientLoginActivity extends AppCompatActivity {
     public void authCheck(){
         String email =  etEmail.getText().toString().trim();
         String password = etPassword.getText().toString();
-
         if(email.isEmpty())
             etEmail.setError("Vui lòng nhập email");
         else if(!email.matches(patternEmail))
@@ -127,4 +126,6 @@ public class ClientLoginActivity extends AppCompatActivity {
         startActivity(i);
 
     }
+
+
 }

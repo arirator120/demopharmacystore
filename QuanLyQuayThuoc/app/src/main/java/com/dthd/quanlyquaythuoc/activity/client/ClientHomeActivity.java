@@ -20,6 +20,7 @@ import android.widget.Toast;
 import com.dthd.quanlyquaythuoc.R;
 import com.dthd.quanlyquaythuoc.activity.employee.AdminHomeActivity;
 import com.dthd.quanlyquaythuoc.fragment.AdminHomeFragment;
+import com.dthd.quanlyquaythuoc.fragment.CallFragment;
 import com.dthd.quanlyquaythuoc.fragment.ManagerCompanyFragment;
 import com.dthd.quanlyquaythuoc.fragment.ManagerEmployeeFragment;
 import com.dthd.quanlyquaythuoc.model.user;
@@ -66,6 +67,7 @@ public class ClientHomeActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        getSupportActionBar().setTitle("Trang chủ");
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(this, drawer, toolbar,
                 R.string.navigation_drawer_open, R.string.navigation_drawer_close);
 
@@ -184,17 +186,11 @@ public class ClientHomeActivity extends AppCompatActivity {
                         new AdminHomeFragment()).commit();
 
                 break;
-            case R.id.nav_employee:
+            case R.id.nav_contact:
                 getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,
-                        new ManagerEmployeeFragment()).commit();
+                        new CallFragment()).commit();
 
                 break;
-            case R.id.nav_company:
-                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,
-                        new ManagerCompanyFragment()).commit();
-
-                break;
-
             case R.id.signOut:
                 finish();
                 signOut();

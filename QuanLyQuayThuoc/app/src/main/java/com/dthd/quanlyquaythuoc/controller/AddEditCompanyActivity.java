@@ -49,7 +49,7 @@ public class AddEditCompanyActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
         toolbar.setTitle("");
 
-        getSupportActionBar().setTitle("Quản lý nhà cung cấp");
+        getSupportActionBar().setTitle("");
         //set up back button
         toolbar.setNavigationIcon(getResources().getDrawable(R.drawable.ic_action_back));
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
